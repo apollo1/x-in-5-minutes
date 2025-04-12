@@ -1,0 +1,10 @@
+title: XXX in 5 Minutes
+description: Fast, focused guides to dev tools and tech stacks.
+baseurl: "" # keep this empty unless publishing to a subpath
+url: "https://yourdomain.com" # replace later if using a custom domain
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+highlighter: rouge

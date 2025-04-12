@@ -1,0 +1,9 @@
+body {
+    font-family: system-ui, sans-serif;
+    line-height: 1.6;
+}
+
+.post-meta {
+    font-size: 0.9em;
+    color: #666;
+}
