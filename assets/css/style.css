@@ -7,3 +7,9 @@ body {
     font-size: 0.9em;
     color: #666;
 }
+
+.post-title {
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+}

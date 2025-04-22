@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Setting up a WireMock Docker Container in 5 Minutes"
 date: 2025-04-12
 tags: [wiremock, docker, api, testing]
